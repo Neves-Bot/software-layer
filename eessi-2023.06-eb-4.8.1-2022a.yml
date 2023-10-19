@@ -7,6 +7,7 @@ easyconfigs:
   - foss-2022a
   - SciPy-bundle-2022.05-foss-2022a
   - BAMM-2.5.0-foss-2022a.eb
+  - QIIME2-2023.7-foss-2022a.eb
   - ESPResSo-4.2.1-foss-2022a:
       options:
         from-pr: 18963
